@@ -143,10 +143,10 @@ pdf_extractor/
 Path ends with a backslash. Switch to forward slashes:
 ```python
 # Causes the error
-PDF_FOLDER = "C:\Users\FHP\Desktop\pdf_extractor\"
+PDF_FOLDER = "C:\Users\USERNAME\Desktop\pdf_extractor\"
 
 # Works fine
-PDF_FOLDER = "C:/Users/FHP/Desktop/pdf_extractor"
+PDF_FOLDER = "C:/Users/USERNAME/Desktop/pdf_extractor"
 ```
 
 **`'python' is not recognized`**
